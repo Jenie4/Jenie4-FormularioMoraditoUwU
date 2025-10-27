@@ -1,0 +1,7 @@
+echo "# Jenie4-FormularioMoraditoUwU" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jenie4/Jenie4-FormularioMoraditoUwU.git
+git push -u origin main
